@@ -1,2 +1,2 @@
-s = "Iamlearningpython"
-print(s[20:0:-2])
+g= input("Please input a string:")
+print(g[::-2])
