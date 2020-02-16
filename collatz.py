@@ -13,4 +13,6 @@ while X!=1:
       X = X*3+1
       print('X=',X) 
 
+print ('Thank you for running my program :)')      
+
 
