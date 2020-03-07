@@ -1,0 +1,2 @@
+bool
+profitable=True
