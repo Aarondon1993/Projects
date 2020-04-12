@@ -1,3 +1,5 @@
+#Aaron Donnelly
+#This program will calculate the users body mass index (BMI)
 a= 18.5
 b=25.0
 
